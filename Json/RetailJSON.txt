@@ -1,0 +1,20 @@
+{
+	"retaildata": 
+	[
+		{
+		    "columnNumber": "1",
+			"shelfRow": "Top",
+			"shelfText": "Color Wellness",
+			"productName": "ColorWellness",
+			"assetURL": "https://raw.githubusercontent.com/ChrisJ-Ascent/FIleTest/main/Product1/TestCube.obj"
+		},
+
+		{
+		    "columnNumber": "2",
+			"shelfRow": "Top",
+			"shelfText": "Scalp Wellness",
+			"productName": "ScalpWellness",
+			"assetURL": "https://raw.githubusercontent.com/ChrisJ-Ascent/FIleTest/main/Product2/TestCube2.obj"
+		}
+	]
+}
