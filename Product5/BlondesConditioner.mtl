@@ -12,8 +12,8 @@ newmtl Liters
 	Kd 0.0000 0.4353 0.4078
 	Ks 0.2880 0.2880 0.2880
 	Ke 0.0000 0.0000 0.0000
-	map_Ka E:\CGI\3D\Blue prints till oct 2020\VR 7\Bottle labels\Artwork\Liters\Blondes Conditioner Liter Label lb.png
-	map_Kd E:\CGI\3D\Blue prints till oct 2020\VR 7\Bottle labels\Artwork\Liters\Blondes Conditioner Liter Label lb.png
+	map_Ka BlondesConditioner.png
+	map_Kd BlondesConditioner.png
 
 newmtl Material_001s
 	Kd 1.0000 1.0000 1.0000
