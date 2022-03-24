@@ -12,8 +12,8 @@ newmtl Liters
 	Kd 0.0000 0.4353 0.4078
 	Ks 0.2880 0.2880 0.2880
 	Ke 0.0000 0.0000 0.0000
-	map_Ka BlondesConditioner.png
-	map_Kd BlondesConditioner.png
+	map_Ka BlondesConditioner-9oz.png
+	map_Kd BlondesConditioner-9oz.png
 
 newmtl Material_001s
 	Kd 1.0000 1.0000 1.0000
